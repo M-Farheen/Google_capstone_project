@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://images.ctfassets.net/p6ae3zqfb1e3/56CyOlsd059elNkbFv8W3J/1125288367133cb3c55d2766be02f581/Divvy_Homepage_Reinvent_your_routine_2x.png?w=1500&q=60&fm=webp))
+![alt text](https://images.ctfassets.net/p6ae3zqfb1e3/56CyOlsd059elNkbFv8W3J/1125288367133cb3c55d2766be02f581/Divvy_Homepage_Reinvent_your_routine_2x.png?w=1500&q=60&fm=webp)
 
 
 # Google_capstone_project
